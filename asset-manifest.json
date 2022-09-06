@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/PokeAPI-pokemon-searcher/static/css/main.ffb33f58.css",
-    "main.js": "/PokeAPI-pokemon-searcher/static/js/main.3149d21f.js",
+    "main.js": "/PokeAPI-pokemon-searcher/static/js/main.a3425a65.js",
     "index.html": "/PokeAPI-pokemon-searcher/index.html",
     "main.ffb33f58.css.map": "/PokeAPI-pokemon-searcher/static/css/main.ffb33f58.css.map",
-    "main.3149d21f.js.map": "/PokeAPI-pokemon-searcher/static/js/main.3149d21f.js.map"
+    "main.a3425a65.js.map": "/PokeAPI-pokemon-searcher/static/js/main.a3425a65.js.map"
   },
   "entrypoints": [
     "static/css/main.ffb33f58.css",
-    "static/js/main.3149d21f.js"
+    "static/js/main.a3425a65.js"
   ]
 }
